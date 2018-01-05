@@ -17,7 +17,7 @@
             "body_font_family": "Open Sans"
         },
         ".widget-title": {
-            "widget_title_font_size": "20px",
+            "widget_title_font_size": "30px",
             "widget_title_font_weight": "normal",
             "widget_title_text_align": "center"
         }
